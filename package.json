@@ -10,6 +10,10 @@
   "author": "demboffskiy",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "prettier": "^3.3.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
